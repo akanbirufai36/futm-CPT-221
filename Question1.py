@@ -1,17 +1,3 @@
-from fractions import Fraction as F
-import numpy as np
-
-
-Applications_of_numerical_computation = '''
-The following are six applications of numerical computation:
-1. Machine learning and AI
-2. Scientific simulations and modeling
-3. Data analysis
-4. Blockchain
-5. Cryptography
-6. Engineering and robotics
-'''
-
 print('\n1a:', end=' ')
 print(Applications_of_numerical_computation, '\n')
 
